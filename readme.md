@@ -80,5 +80,4 @@
 * Changed fiscal year from November-October to January-December to coincide with State and Federal Government (From what I understand).
 
 ### Still on the to-do list:
-* Membership Secretary (Tracy's pre-bouncer)
 * Other members of the board to provide input
